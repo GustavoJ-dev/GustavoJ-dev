@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! Eu sou Gustavo 👋
 
-<!--
-**GustavoJ-dev/GustavoJ-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu README pessoal! Aqui você vai conhecer um pouco sobre mim e meus objetivos como desenvolvedor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Sobre Mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+- 💻 Aspiro ser **Engenheiro de Software**  
+- 👨‍💻 Desenvolvedor **Java** e **Backend**  
+- 🌱 Estou aprendendo e aprimorando meus conhecimentos em **Java, Spring, Maven e banco de dados**  
+
+---
+
+## 🛠 Habilidades
+- **Linguagens:** Java, SQL, Python. 
+- **Frameworks/Tools:** Spring, Maven, Git, GitHub.  
+- **Outras habilidades:** Lógica de programação, desenvolvimento backend, resolução de problemas, trabalho em equipe, proativo.  
+
+---
+
+## 🚀 Projetos
+Aqui estão alguns projetos que desenvolvi ou estou desenvolvendo:  
+- [Projeto 1](https://github.com/GustavoJ-dev/Electricity-Billing-System.git) – Electricity Billing System é uma aplicação desenvolvida em Java que automatiza o gerenciamento e a geração de contas de energia elétrica para clientes.
+
+
+---
+
+## 💡 Interesses
+- Desenvolvimento de **software e aplicações backend**  
+- Aprimorar minhas habilidades em **Java e tecnologias relacionadas**  
+- Aprender e aplicar **novas ferramentas e boas práticas** de desenvolvimento  
+
+---
+
+## 📫 Contato
+- [LinkedIn](www.linkedin.com/in/gustavo-silva-a92b33372)   
+- [Email](gs2278579@gmail.com)
