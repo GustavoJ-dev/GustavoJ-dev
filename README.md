@@ -34,5 +34,5 @@ Aqui estão alguns projetos que desenvolvi ou estou desenvolvendo:
 ---
 
 ## 📫 Contato
-- [LinkedIn](www.linkedin.com/in/gustavo-silva-a92b33372)   
-- [Email](gs2278579@gmail.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gustavo-silva-a92b33372))   
+- 📧 Email: [gs2278579@gmail.com](mailto:gs2278579@gmail.com)
