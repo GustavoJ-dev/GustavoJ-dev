@@ -94,6 +94,7 @@ Acredito que o aprendizado contínuo, a prática constante e a construção de p
 
 ---
 
+<!--
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -117,3 +118,5 @@ Acredito que o aprendizado contínuo, a prática constante e a construção de p
 ☕ **Code • Learn • Improve • Repeat**
 
 </p>
+
+-->
