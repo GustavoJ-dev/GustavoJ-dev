@@ -82,7 +82,7 @@ Acredito que o aprendizado contínuo, a prática constante e a construção de p
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gustavo.jesus.silva.dev@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavo.jesus.silva.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
