@@ -86,7 +86,7 @@ Acredito que o aprendizado contínuo, a prática constante e a construção de p
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/GustavoJ-dev/Java-Portfolio">
+<a href="https://gustavoj-dev.github.io/Java-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
