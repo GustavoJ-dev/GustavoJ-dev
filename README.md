@@ -80,6 +80,12 @@ Meu objetivo é evoluir continuamente como desenvolvedor backend, transformando 
 - Busco minha primeira oportunidade como desenvolvedor Java Backend, onde possa contribuir com projetos reais, aplicar meus conhecimentos e agregar valor por meio de soluções bem estruturadas e boas práticas de desenvolvimento. Tenho como objetivo evoluir continuamente na área de tecnologia, unindo aprendizado, prática e desenvolvimento de projetos para construir uma trajetória sólida como profissional de software.
 ---
 
+## 📄 Currículo
+
+Confira meu currículo completo com minha trajetória, projetos, conhecimentos e experiências profissionais.
+
+👉 [**Visualizar currículo em PDF**](./Curr%C3%ADculo%20Gustavo%20de%20Jesus%20Silva-%20Desenvolvedor%20Java%20j%C3%BAnior.pdf)
+
 ## 📫 Contact
 
 <p align="center">
