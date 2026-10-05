@@ -9,11 +9,11 @@
 
 # 👋 Olá, eu sou Gustavo!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor focado em **Java Backend**.
+Sou desenvolvedor Java Backend, com foco no desenvolvimento de aplicações e APIs REST utilizando o ecossistema Java.
 
-Atualmente, concentro meus estudos no ecossistema Java, aprofundando meus conhecimentos em **Programação Orientada a Objetos**, **Collections Framework**, **Streams API**, **NIO.2**, **Concorrência** e **Estruturas de Dados**, aplicando esses conceitos em projetos práticos para desenvolver soluções robustas, escaláveis e bem estruturadas.
+Atualmente, desenvolvo projetos utilizando Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, OAuth 2.0 e JWT, aplicando conceitos de arquitetura em camadas, autenticação e autorização, persistência de dados, validação e boas práticas de desenvolvimento para construir APIs organizadas, seguras e de fácil manutenção.
 
-Meu objetivo é construir uma carreira sólida como desenvolvedor backend, evoluindo continuamente por meio do aprendizado constante, boas práticas de desenvolvimento e da criação de projetos que reflitam minha evolução técnica.
+Meu objetivo é evoluir continuamente como desenvolvedor backend, transformando conhecimento em projetos práticos e construindo uma carreira sólida na área de desenvolvimento de software.
 ---
 
 ## 🚀 Tecnologias
@@ -39,9 +39,9 @@ Meu objetivo é construir uma carreira sólida como desenvolvedor backend, evolu
 
 ## 📚 Atualmente estudando
 
-No momento, estou aprofundando meus conhecimentos em **Multithreading**, **ExecutorService**, **Concorrência**, **Java NIO.2** e **Estruturas de Dados**, buscando compreender não apenas como utilizar essas tecnologias, mas também quando aplicá-las para desenvolver aplicações mais eficientes e escaláveis.
+- Atualmente, meu foco está no desenvolvimento de APIs REST com Java e Spring Boot, colocando em prática os conhecimentos adquiridos e evoluindo continuamente por meio de projetos.
 
-Meu próximo passo será iniciar os estudos em **Spring Boot**, expandindo meus conhecimentos em desenvolvimento backend e construção de APIs.
+- Busco aprimorar aspectos como arquitetura, segurança, persistência de dados, qualidade de código e boas práticas, desenvolvendo aplicações cada vez mais completas e profissionais.
 
 ---
 
@@ -49,29 +49,28 @@ Meu próximo passo será iniciar os estudos em **Spring Boot**, expandindo meus 
 
 ### 📚 [JavaStudiesHub](https://github.com/GustavoJ-dev/JavaStudiesHub)
 
-Meu principal repositório de estudos e evolução em Java, onde documento minha evolução por meio de exercícios, desafios e implementações práticas. O projeto reúne desde os fundamentos da linguagem até tópicos mais avançados, como Collections, Streams, NIO.2, Concorrência e Estruturas de Dados.
+- Meu principal repositório de estudos e evolução em Java, onde documento minha evolução por meio de exercícios, desafios e implementações práticas. O projeto reúne desde os fundamentos da linguagem até tópicos mais avançados, como Collections, Streams, NIO.2, Concorrência e Estruturas de Dados, JDBC e JAVAFX.
 
 ---
 
-### 🧮 Scientific Calculator <!--(https://github.com/GustavoJ-dev/ScientificCalculator)-->
+### 🧮 Scientific Calculator [Calculadora Científica](https://github.com/GustavoJ-dev/ScientificCalculator)
 
 
-Calculadora científica desenvolvida em **JavaFX**, criada para aprofundar conhecimentos em interfaces gráficas, organização de código, eventos e manipulação de operações matemáticas em aplicações desktop.
+- Calculadora científica desenvolvida em **JavaFX**, criada para aprofundar conhecimentos em interfaces gráficas, organização de código, eventos e manipulação de operações matemáticas em aplicações desktop, com mais de 14 operações e tratamentos de erros como divisão por 0 e INFINITY.
 
 ---
 
-### ☕ EnergyCore <!--(https://github.com/GustavoJ-dev/EnergyCore)-->
+### ☕ PowerManager [PowerManager](https://github.com/GustavoJ-dev/EnergyCore)
+- API REST desenvolvida com Java e Spring Boot para gerenciamento de consumo de energia e faturamento, contemplando o controle de clientes, medidores, leituras de consumo, faturas, pagamentos e taxas.
 
-Projeto de gerenciamento de energia desenvolvido em **Java**, **JavaFX**, **JDBC** e **MySQL**. Criado para aplicar conceitos de arquitetura em camadas, persistência de dados e interfaces gráficas, continuará evoluindo à medida que eu aprofundar meus conhecimentos em desenvolvimento backend.
+- O projeto aplica conceitos de arquitetura em camadas, Spring Data JPA, Hibernate, MySQL, Bean Validation, tratamento de exceções e auditoria, com foco em organização, segurança, manutenibilidade e boas práticas no desenvolvimento de APIs backend.
+
 
 ---
 
 ## 🎯 Objetivos
 
-Atualmente, busco minha primeira oportunidade como desenvolvedor **Java Backend**, onde possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo técnica e profissionalmente.
-
-Acredito que o aprendizado contínuo, a prática constante e a construção de projetos sólidos são fundamentais para o desenvolvimento de uma carreira consistente na área de tecnologia.
-
+- Busco minha primeira oportunidade como desenvolvedor Java Backend, onde possa contribuir com projetos reais, aplicar meus conhecimentos e agregar valor por meio de soluções bem estruturadas e boas práticas de desenvolvimento. Tenho como objetivo evoluir continuamente na área de tecnologia, unindo aprendizado, prática e desenvolvimento de projetos para construir uma trajetória sólida como profissional de software.
 ---
 
 ## 📫 Contact
@@ -94,7 +93,6 @@ Acredito que o aprendizado contínuo, a prática constante e a construção de p
 
 ---
 
-<!--
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -118,5 +116,3 @@ Acredito que o aprendizado contínuo, a prática constante e a construção de p
 ☕ **Code • Learn • Improve • Repeat**
 
 </p>
-
--->
