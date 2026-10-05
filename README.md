@@ -13,26 +13,33 @@ Sou desenvolvedor Java Backend, com foco no desenvolvimento de aplicações e AP
 
 Atualmente, desenvolvo projetos utilizando Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, OAuth 2.0 e JWT, aplicando conceitos de arquitetura em camadas, autenticação e autorização, persistência de dados, validação e boas práticas de desenvolvimento para construir APIs organizadas, seguras e de fácil manutenção.
 
-Meu objetivo é evoluir continuamente como desenvolvedor backend, transformando conhecimento em projetos práticos e construindo uma carreira sólida na área de desenvolvimento de software.
+Meu objetivo é evoluir continuamente como desenvolvedor backend, transformando conhecimento em projetos práticos e construindo uma carreira sólida por trás das de cada sistema feito.
+
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e ferramentas
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-CC7832?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JDBC-2B2B2B?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaFX-CC7832?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth%202.0-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Bean%20Validation-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
 ---
@@ -47,7 +54,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor backend, transformando 
 
 ## 📂 Featured Repositories
 
-### 📚 [JavaStudiesHub](https://github.com/GustavoJ-dev/JavaStudiesHub)
+### 📚 Java Studies Hub [JavaStudiesHub](https://github.com/GustavoJ-dev/JavaStudiesHub)
 
 - Meu principal repositório de estudos e evolução em Java, onde documento minha evolução por meio de exercícios, desafios e implementações práticas. O projeto reúne desde os fundamentos da linguagem até tópicos mais avançados, como Collections, Streams, NIO.2, Concorrência e Estruturas de Dados, JDBC e JAVAFX.
 
@@ -60,7 +67,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor backend, transformando 
 
 ---
 
-### ☕ PowerManager [PowerManager](https://github.com/GustavoJ-dev/EnergyCore)
+### ☕ PowerManager [PowerManager](https://github.com/GustavoJ-dev/PowerManager.git)
 - API REST desenvolvida com Java e Spring Boot para gerenciamento de consumo de energia e faturamento, contemplando o controle de clientes, medidores, leituras de consumo, faturas, pagamentos e taxas.
 
 - O projeto aplica conceitos de arquitetura em camadas, Spring Data JPA, Hibernate, MySQL, Bean Validation, tratamento de exceções e auditoria, com foco em organização, segurança, manutenibilidade e boas práticas no desenvolvimento de APIs backend.
