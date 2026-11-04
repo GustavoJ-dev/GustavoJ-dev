@@ -62,16 +62,24 @@ Atualmente, direciono meus estudos ao ecossistema **Spring**, desenvolvendo proj
 ## 📌 Featured Repositories
 
 ### ⚡ [PowerManager API](https://github.com/GustavoJ-dev/PowerManager)
-API REST desenvolvida com Java e Spring Boot para gerenciamento de consumo de energia e faturamento, contemplando clientes, medidores, leituras de consumo, faturas, pagamentos e taxas. Projeto focado em arquitetura em camadas, persistência com Spring Data JPA e Hibernate, MySQL, validação e boas práticas de desenvolvimento backend.
+**Backend de gerenciamento de energia e faturamento | Java 21 · Spring Boot · JPA · Hibernate · MySQL · Docker Compose · JUnit 5 · Mockito**
+
+API REST desenvolvida para organizar o gerenciamento de clientes, medidores, tarifas, faturas e usuários. O projeto aplica arquitetura em camadas, com entidades JPA, repositórios e serviços responsáveis pelas regras de negócio, validações e tratamento de exceções. Também conta com testes unitários utilizando JUnit 5 e Mockito, com **100% de cobertura reportada na camada de serviços**.
 
 ### ☕ [JavaStudiesHub](https://github.com/GustavoJ-dev/JavaStudiesHub)
-Repositório que documenta minha jornada de estudos em Java, reunindo módulos de conteúdo, anotações, exercícios e implementações práticas. Abrange desde os fundamentos da linguagem até Collections, Generics, Streams, I/O e NIO.2, concorrência, estruturas de dados, JDBC, Networking, testes com JUnit e JavaFX.
+**Central de estudos e projetos práticos em Java | Java Core · POO · Collections · Generics · Lambdas · Streams API · Git · GitHub**
+
+Repositório estruturado em **18 módulos**, reunindo mais de **40 exercícios práticos** e aproximadamente **10 mini projetos**. Abrange desde os fundamentos da linguagem até conceitos de Programação Orientada a Objetos, Collections Framework, Generics, Lambdas e Streams API. Inclui materiais de apoio e exemplos práticos, organizados para documentar e acompanhar a evolução contínua dos estudos em Java.
 
 ### 🧮 [Scientific Calculator](https://github.com/GustavoJ-dev/ScientificCalculator)
-Calculadora científica desktop desenvolvida com Java 21, JavaFX, FXML e Maven. O projeto conta com modos simples e científico, mais de 14 operações matemáticas, organização por controllers e tratamento de operações inválidas.
+**Aplicação desktop de cálculos matemáticos | Java 21 · JavaFX · FXML · CSS · Maven**
+
+Calculadora desktop desenvolvida com JavaFX, oferecendo modos **simples e científico** e um conjunto de **14 operações matemáticas**. Possui estado compartilhado entre as interfaces e tratamento de situações inválidas, como divisão por zero, raiz quadrada de números negativos e logaritmos com entradas inválidas. O projeto reforça a aplicação de JavaFX, organização por interfaces e lógica de programação.
 
 ### 💼 [Java Portfolio](https://github.com/GustavoJ-dev/Java-Portfolio)
-Meu portfólio pessoal, desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetória, habilidades e projetos.
+**Portfólio pessoal de desenvolvimento | HTML5 · CSS3 · JavaScript**
+
+Site desenvolvido para apresentar minha trajetória na área de tecnologia, competências técnicas e projetos. Construído com HTML, CSS e JavaScript, possui identidade visual inspirada no tema Darcula e layout responsivo, reunindo em um só lugar informações sobre minha atuação e evolução como desenvolvedor.
 
 ---
 
