@@ -8,9 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=CC7832&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+in+progress;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+estudos+em+projetos+pr%C3%A1ticos" alt="Apresentação animada">
 </p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Java em formação, com foco em **Backend**. Tenho mais de um ano de prática com Java por meio de projetos acadêmicos e pessoais, nos quais venho desenvolvendo aplicações e aprofundando meus conhecimentos em Programação Orientada a Objetos, persistência de dados e organização de código.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Java com foco em Back-end**, dedicado à construção de aplicações organizadas, soluções orientadas a objetos e integração com bancos de dados relacionais.
 
-Atualmente, direciono meus estudos ao ecossistema **Spring**, desenvolvendo projetos para consolidar conhecimentos em APIs REST, arquitetura em camadas, bancos de dados, validação e qualidade de código. Busco minha primeira oportunidade profissional na área de desenvolvimento, onde possa contribuir, aprender com outros profissionais e evoluir continuamente.
+Tenho experiência prática adquirida em projetos acadêmicos e pessoais com **Java, Spring Boot, APIs REST, JPA/Hibernate, SQL e MySQL**. Venho aplicando também arquitetura em camadas, regras de negócio, validação de dados e testes automatizados com **JUnit 5 e Mockito**, utilizando Git, Maven e Docker no fluxo de desenvolvimento.
+
+Estou em busca da minha **primeira oportunidade como Desenvolvedor Java Back-end Júnior**, onde possa contribuir com minha capacidade de aprendizado, dedicação à qualidade do código e vontade de evoluir em equipe.
 
 ---
 
@@ -62,24 +64,24 @@ Atualmente, direciono meus estudos ao ecossistema **Spring**, desenvolvendo proj
 ## 📌 Featured Repositories
 
 ### ⚡ [PowerManager API](https://github.com/GustavoJ-dev/PowerManager)
-**Backend de gerenciamento de energia e faturamento | Java 21 · Spring Boot · JPA · Hibernate · MySQL · Docker Compose · JUnit 5 · Mockito**
+**Backend de faturamento de energia elétrica | Java 21 · Spring Boot · Spring Data JPA · Hibernate · MapStruct · MySQL · H2 · Docker Compose · JUnit 5 · Mockito · JaCoCo**
 
-API REST desenvolvida para organizar o gerenciamento de clientes, medidores, tarifas, faturas e usuários. O projeto aplica arquitetura em camadas, com entidades JPA, repositórios e serviços responsáveis pelas regras de negócio, validações e tratamento de exceções. Também conta com testes unitários utilizando JUnit 5 e Mockito, com **100% de cobertura reportada na camada de serviços**.
+Backend em desenvolvimento para gerenciamento do ciclo de faturamento de energia elétrica, contemplando clientes, medidores, tarifas, faturas e usuários. Já implementa entidades e relacionamentos JPA, DTOs com Bean Validation, mapeamento com MapStruct, repositórios e cinco services com regras de negócio, validações e exceções específicas. Possui testes automatizados para services, repositories e mappers com JUnit 5, Mockito e AssertJ, além de relatório de cobertura configurado com JaCoCo. **Os controllers e endpoints HTTP REST ainda estão no roadmap**; os percentuais de cobertura devem ser consultados no relatório gerado pela execução atual, sem divulgar números desatualizados.
 
 ### ☕ [JavaStudiesHub](https://github.com/GustavoJ-dev/JavaStudiesHub)
-**Central de estudos e projetos práticos em Java | Java Core · POO · Collections · Generics · Lambdas · Streams API · Git · GitHub**
+**Repositório de estudos e prática contínua em Java | Java Core · POO · Collections · Generics · Streams · JDBC · JPA · Hibernate · Networking · JUnit · JavaFX**
 
-Repositório estruturado em **18 módulos**, reunindo mais de **40 exercícios práticos** e aproximadamente **10 mini projetos**. Abrange desde os fundamentos da linguagem até conceitos de Programação Orientada a Objetos, Collections Framework, Generics, Lambdas e Streams API. Inclui materiais de apoio e exemplos práticos, organizados para documentar e acompanhar a evolução contínua dos estudos em Java.
+Repositório educacional organizado em **18 módulos**, que documenta minha evolução no ecossistema Java por meio de materiais de estudo, anotações, exercícios, desafios e projetos práticos. Abrange desde fundamentos da linguagem e Programação Orientada a Objetos até Collections, Generics, programação funcional com Streams, Date and Time API, Regex, I/O e NIO, concorrência, JDBC, persistência com JPA/Hibernate, Networking, testes unitários e interfaces gráficas com JavaFX. Um espaço estruturado para transformar teoria em prática e manter o aprendizado documentado.
 
 ### 🧮 [Scientific Calculator](https://github.com/GustavoJ-dev/ScientificCalculator)
-**Aplicação desktop de cálculos matemáticos | Java 21 · JavaFX · FXML · CSS · Maven**
+**Aplicação desktop de calculadora | Java 21 · JavaFX · FXML · CSS · Maven**
 
-Calculadora desktop desenvolvida com JavaFX, oferecendo modos **simples e científico** e um conjunto de **14 operações matemáticas**. Possui estado compartilhado entre as interfaces e tratamento de situações inválidas, como divisão por zero, raiz quadrada de números negativos e logaritmos com entradas inválidas. O projeto reforça a aplicação de JavaFX, organização por interfaces e lógica de programação.
+Aplicação desktop com duas interfaces — **modo simples e modo científico** — que compartilham o mesmo estado da calculadora durante a alternância entre telas. Reúne operações aritméticas básicas e funções científicas, como potenciação, raiz quadrada, inverso, seno, cosseno, tangente, porcentagem e logaritmos. Inclui tratamento de operações inválidas, como divisão por zero, raiz de número negativo e logaritmo de valores não positivos. As telas são construídas com FXML e gerenciadas por controller JavaFX.
 
 ### 💼 [Java Portfolio](https://github.com/GustavoJ-dev/Java-Portfolio)
-**Portfólio pessoal de desenvolvimento | HTML5 · CSS3 · JavaScript**
+**Portfólio pessoal responsivo | HTML5 · CSS3 · JavaScript · Lucide Icons**
 
-Site desenvolvido para apresentar minha trajetória na área de tecnologia, competências técnicas e projetos. Construído com HTML, CSS e JavaScript, possui identidade visual inspirada no tema Darcula e layout responsivo, reunindo em um só lugar informações sobre minha atuação e evolução como desenvolvedor.
+Site desenvolvido para apresentar minha trajetória como estudante de ADS e desenvolvedor com foco em Java Back-end. Reúne apresentação profissional, resumo de competências, cards interativos de habilidades, projetos com links para o GitHub e seção de contato. Possui navegação responsiva para desktops, notebooks, tablets e smartphones, com identidade visual inspirada no ecossistema Java e na IDE IntelliJ IDEA.
 
 ---
 
