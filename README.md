@@ -86,8 +86,8 @@ Confira meu currículo completo com minha trajetória, conhecimentos e projetos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GustavoJ-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJ-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=GustavoJ-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoJ-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas">
 </p>
 
 <p align="center">
